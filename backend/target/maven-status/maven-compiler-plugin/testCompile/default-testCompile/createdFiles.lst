@@ -1,5 +1,0 @@
-com\parking\service\ReportingServiceTest.class
-com\parking\validation\VehicleNumberValidatorTest.class
-com\parking\service\ParkingSessionServiceTest.class
-com\parking\controller\ParkingControllerIntegrationTest.class
-com\parking\service\FeeCalculationServiceTest.class
